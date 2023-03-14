@@ -1,4 +1,5 @@
 ffmpeg-python
 filterpy
 shapely
+pyyaml
 pywaggle[all]==0.55.*
